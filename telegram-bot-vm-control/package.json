@@ -1,0 +1,10 @@
+{
+  "name": "telegram-bot-backend",
+  "version": "0.0.1",
+  "dependencies": {
+  	"cloud-functions-runtime-config": "^0.1.1",
+   	"request": "^2.81.0",
+   	"request-promise-native": "^1.0.4",
+    "@google-cloud/compute": "0.7.1"
+  }
+}
