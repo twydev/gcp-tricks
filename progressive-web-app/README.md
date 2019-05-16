@@ -6,6 +6,7 @@ Additional resources:
 
 - How web browsers work https://hackernoon.com/how-do-web-browsers-work-40cefd2cb1e1
 - JS Storage Engines https://blog.sessionstack.com/how-javascript-works-storage-engines-how-to-choose-the-proper-storage-api-da50879ef576
+- How JS work in browser https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
 - Web fundamentals https://developers.google.com/web/fundamentals/
 
 ---
