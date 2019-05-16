@@ -2,6 +2,12 @@ This was cloned from a Code Lab tutorial https://codelabs.developers.google.com/
 
 The tutorial uses Yahoo API to create a weather app, but unfortunately the Yahoo retired the API in Jan 2019. In order to still learn from this tutorial, I have imitated the API with the help of [My JSON Server](https://my-json-server.typicode.com/) by [typicode](https://github.com/typicode). This is an awesome tool to help hobbyist develop faster. If you like it, please support the creator on Patreon.
 
+Additional resources:
+
+- How web browsers work https://hackernoon.com/how-do-web-browsers-work-40cefd2cb1e1
+- JS Storage Engines https://blog.sessionstack.com/how-javascript-works-storage-engines-how-to-choose-the-proper-storage-api-da50879ef576
+- Web fundamentals https://developers.google.com/web/fundamentals/
+
 ---
 # Your first Progressive Web App Code Lab
 
